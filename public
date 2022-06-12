@@ -1,3 +1,5 @@
+pragma solidity ^0.6.6;
+
 // import chai, { expect } from 'chai'
 // import { Contract } from 'ethers'
 // import { MaxUint256 } from 'ethers/constants'
